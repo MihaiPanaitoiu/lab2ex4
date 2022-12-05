@@ -15,7 +15,7 @@ namespace lab2ex4
             int num = int.Parse(Console.ReadLine());
 
             int duplicateNum = num;
-            int reverseNum = 0;
+            int reverseNum;
 
             
             while (duplicateNum > 0)
